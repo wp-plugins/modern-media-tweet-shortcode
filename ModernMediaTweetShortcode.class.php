@@ -4,7 +4,7 @@ Plugin Name: Modern Media Tweet Shortcode
 Plugin URI: http://modernmediapartners.com/
 Description: Shortcode function for embedded tweets eg: [tweet https://twitter.com/twitterapi/status/133640144317198338]
 Author: Chris Carson
-Version: 1.0
+Version: 1.0.1
 Author URI: http://modernmediapartners.com/
 */
 new ModernMediaTweetShortcode;
