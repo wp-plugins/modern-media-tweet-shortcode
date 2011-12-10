@@ -41,4 +41,7 @@ for example:
 = 1.0 =
 * Initial release.
 
+== Upgrade Notice ==
 
+= 1.0.1 =
+Fixed faulty directory layout when the plugin is installed automatically from wordpress.org
