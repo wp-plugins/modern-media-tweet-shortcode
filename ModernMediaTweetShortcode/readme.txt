@@ -27,6 +27,10 @@ for example:
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Tweak your settings in Options > Embedded Tweets
 
+== Screenshots ==
+
+1. The shortcode in action
+2. Admin Panel
 
 
 == Changelog ==
