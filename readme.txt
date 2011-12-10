@@ -3,7 +3,7 @@ Contributors: chriscarson
 Tags: twitter, tweet, embedded tweets, twitter api, oembed, shortcode
 Requires at least: 3.0
 Tested up to: 3.2.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 
 Adds 'tweet' shortcode for embedding tweets using Twitter's shortcode format.
 
@@ -23,13 +23,20 @@ for example:
 
 == Installation ==
 
-1. Upload the `ModernMediaTweetShortcode` directory to the `/wp-content/plugins/` directory
+1. Upload the `modern-media-tweet-shortcode` directory to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Tweak your settings in Options > Embedded Tweets
 
+== Screenshots ==
+
+1. The shortcode in action
+2. Admin Panel
 
 
 == Changelog ==
+
+= 1.0.1 =
+* Fixed faulty directory layout which put the plugin in a subdirectory, breaking the plugin installation when installed from the Plugins > Add Plugin panel
 
 = 1.0 =
 * Initial release.
